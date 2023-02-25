@@ -16,7 +16,7 @@
     <body id="page-top">
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top">Oh so Sweet</a>
+                <a class="navbar-brand" href="#page-top">Oh so Sweet/a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -97,7 +97,7 @@
         </section>
         <section class="page-section" id="contact">
             <div class="container">
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Us</h2>
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
