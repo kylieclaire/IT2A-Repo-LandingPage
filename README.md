@@ -86,12 +86,10 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 me-auto"><p class="lead">Enjoy your treats with our beverages</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Iced coffee, milktea, frappes, hot choco, black coffee, milkshake--name it because we have that in our sweet house</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Aesthetic and instagrammable sweet shop!</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Customers could visit our shop located at Muntinlupa. Visit now with your friends and loved ones!</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">SHARING IS CARING!</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">We are open for feedback and more suggestions from our dearest customers to further improve our oh so sweet shop</p></div>
+                    
+                    <div class="col-lg-4 me-auto"><p class="lead">Enjoy your treats with our beverages. Iced coffee, milktea, frappes, hot choco, black coffee, milkshake--name it because we have that in our sweet house</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Aesthetic and instagrammable sweet shop! Customers could visit our shop located at Muntinlupa. Visit now with your friends and loved ones!</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Share your thoughts. We are open for feedback and more suggestions from our dearest customers to further improve our oh so sweet shop</p></div>
                 </div>
             </div>
         </section>
@@ -278,4 +276,3 @@
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>
-
