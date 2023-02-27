@@ -16,7 +16,7 @@
     <body id="page-top">
         <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top">Oh so Sweet</a>
+                <a class="navbar-brand" href="#page-top">Oh so Sweet Shop</a>
                 <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -79,7 +79,7 @@
         </section>
         <section class="page-section bg-primary text-white mb-0" id="about">
             <div class="container">
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-white">Hello SWEETIES!</h2>
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
@@ -88,14 +88,14 @@
                 <div class="row">
                     
                     <div class="col-lg-4 me-auto"><p class="lead">Enjoy your treats with our beverages. Iced coffee, milktea, frappes, hot choco, black coffee, milkshake--name it because we have that in our sweet house</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Aesthetic and instagrammable sweet shop! Customers could visit our shop located at Muntinlupa. Visit now with your friends and loved ones!</p></div>
-                    <div class="col-lg-4 me-auto"><p class="lead">Share your thoughts. We are open for feedback and more suggestions from our dearest customers to further improve our oh so sweet shop</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Aesthetic and instagrammable sweet shop! Customers could visit our shop located at Muntinlupa. Visit now with your friends and loved ones.</p></div>
+                    <div class="col-lg-4 me-auto"><p class="lead">Share your thoughts. We are open for feedback and more suggestions from our dearest customers to further improve our oh so sweet shop.</p></div>
                 </div>
             </div>
         </section>
         <section class="page-section" id="contact">
             <div class="container">
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Us</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Us on How to Order</h2>
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
@@ -159,7 +159,7 @@
                 <div class="row">
                     <!-- Footer Location-->
                     <div class="">
-                        <h4 class="text-uppercase mb-4">More About Us</h4>
+                        <h4 class="text-uppercase mb-4">More About Oh so Sweet Shop</h4>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
