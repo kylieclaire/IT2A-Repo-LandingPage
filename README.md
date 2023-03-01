@@ -1,4 +1,3 @@
-# Oh-so-sweet
 <!DOCTYPE html>
 <html lang="en">
     <head>
